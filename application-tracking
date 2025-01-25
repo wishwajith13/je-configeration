@@ -1,4 +1,3 @@
-spring.application.name=application-tracking
 server.port=8091
 spring.datasource.url=jdbc:postgresql://db-postgresql-sgp1-99854-do-user-18640699-0.l.db.ondigitalocean.com:25060/applicationTrackingDb?sslmode=require
 spring.datasource.username=doadmin
