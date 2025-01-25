@@ -1,3 +1,4 @@
+spring.application.name=user-management
 server.port=8090
 spring.datasource.url=jdbc:postgresql://db-postgresql-sgp1-99854-do-user-18640699-0.l.db.ondigitalocean.com:25060/userManagementDb?sslmode=require
 spring.datasource.username=doadmin
